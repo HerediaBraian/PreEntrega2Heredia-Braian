@@ -1,0 +1,14 @@
+body, html {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-image: url('./../IMG/Blog-3-Oct-Justloading-1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    padding: 20px;
+    box-sizing: border-box;
+}
